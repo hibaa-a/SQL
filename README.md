@@ -1,4 +1,4 @@
-# Assignment 9: Employee Database
+#  SQL
 
 ## Background
 
